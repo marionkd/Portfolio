@@ -6,7 +6,8 @@ All work that I have created is confidential, but I have uploaded a sample selec
 
 
 # Key Applications
-|MS Windows| All versions
+|MS Windows| All versions|
+|--------|-------|
 |MS Office| Excel, Word, Outlook and PowerPoint, Access, Publisher, Power BI for Desktop and Excel, Power Query and PowerPivot, upgrade training, VBA
 |Microsoft 365| SharePoint (System Admin),Using One Drive for Business, OneNote, Forms, Teams, Planner, Power BI, Power Automate|
 |CRM systems| SalesForce, Dynamics 365 CE|
