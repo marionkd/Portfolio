@@ -3,7 +3,7 @@ An experienced technical author and trainer used to different versions of applic
 
 # Documentation Examples
 All work that I have created is confidential, but I have uploaded a sample selection for perusal.  I have used the same template to show a consistent theme, but any template style can be used. All work has been redacted where necessary.
-- [User Guides](user%20guides/) – Client-facing training materials and help sheets
+- [User Guides](User%20Guides/) – Client-facing training materials and help sheets
 
 
 # Key Applications
