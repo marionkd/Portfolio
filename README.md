@@ -5,14 +5,11 @@ An experienced technical author and trainer used to different versions of applic
 All work that I have created is confidential, but I have uploaded a sample selection for perusal.  I have used the same template to show a consistent theme, but any template style can be used. All work has been redacted where necessary.
 Github cannot preview Office 365 files.  To view the documents in the links below:
 
-1 Click the link below
-1 Select Download
+1. Click the link below
+1. Select Download
 - 
 - [User Guides](User%20Guides/) – Internal and client-facing training materials and help sheets
 - [SOPs](SOPs/) – Sample SOPs
-
-Github does not preview docx, dotx or similar documents.  To view a file, click on the above link
-
 
 # Key Applications
 |MS Windows| All versions|
