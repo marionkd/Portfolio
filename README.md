@@ -15,31 +15,34 @@ Github cannot preview Office 365 files.  To view the documents in the links belo
 - [SOPs](SOPs/) – Sample SOPs
 
 # Key Applications
-|MS Windows| All versions|
-|--------|-------|
-|MS Office| Excel, Word, Outlook and PowerPoint, Access, Publisher, Power BI for Desktop and Excel, Power Query and PowerPivot, upgrade training, VBA
-|Microsoft 365| SharePoint (System Admin),Using One Drive for Business, OneNote, Forms, Teams, Planner, Power BI, Power Automate|
-|CRM systems| SalesForce, Dynamics 365 CE|
-|Asset Management Systems| AMX, Trimble Asset Management System, IFS|
-|Communications|Teams, WebEx, Yammer, Skype, Lync Telephony, Skype Telephony, Skype for Business|
-|Presentation|PowerPoint, Camtasia|
-|Coding/Development| HTML, CSS, Markdown, Github, VBA, Visual Studio for Code, Figma, Confluence, Jira|
+| Category                | Tools & Technologies                                                                                      | Context / Usage                                                                 |
+|-------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|Asset Management Systems| AMX, IFS, Trimble Asset Management System                                                                 | User training, technical documentation, train-the-trainer delivery, and financial planning workflows |
+| Coding/Development      | Confluence, CSS, Figma, GitHub, HTML, Jira, Markdown, VBA, Visual Studio Code                            | Used for document control, version control, workload management, website design, workload automation, and compiling Markdown |
+| Communications          | Lync Telephony, Skype, Skype for Business, Skype Telephony, Teams, WebEx, Yammer                         | Internal comms, training delivery, remote collaboration                          |
+| CRM Systems             | Dynamics 365 CE, Salesforce                                                                               | Client onboarding, process documentation, CRM workflows                         |
+| Microsoft 365           | Forms, OneDrive for Business, OneNote, Planner, Power Automate, Power BI, SharePoint (System Admin), Teams | SaaS platform documentation, training, automation, and collaboration workflows   |
+| MS Office               | Access, Excel, Outlook, Power BI for Desktop and Excel, PowerPivot, PowerPoint, Publisher, upgrade training, VBA, Word | Advanced training, SOPs, reporting, and data transformation                     |
+| Presentation            | Camtasia, PowerPoint                                                                                      | Training guides, video walkthroughs, stakeholder presentations                   |
 
 # Sector Experience
 |Sector | Companies | 
 |----------|----------|
 |Engineering    | Babcock, Jacksons |
 |Facilities Management | Norse, Mitie, CNP |
+|Government Bodies|EA, Defra|
 |Financial |Schroders, Lloyds, Smith & Williamson, Axa, Hiscox, Brewin Dolphin|
 |Local Government|Suffolk County Council, West Suffolk, North Norfolk, East Suffolk, Suffolk Coastal, Colchester Borough Council|
+|Manufacturing         | Tulip, Ford |
 |Maritime |Fraser Offshore, CIS (Acteon Group), Port of Felixstowe, East Coast College |
 |Pharma|Syne qua non, Veeva |
 |Publishing|Sage Publishing
 |Retail|Marks & Spencer, Whitbread, Matthew Clark, Brown Thomas|
+|SaaS| Microsoft, Civica, Veeva|
 |Transport|Network Rail, K Line, Kimble |
 |Utilities |Anglia Water, National Grid, British Gas|
-|Manufacturing | Tulip, Ford|
-|Government Bodies|EA, Defra|
-|SaaS| Microsoft, Civica, Veeva|
+
+
+
 
 
