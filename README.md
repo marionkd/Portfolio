@@ -7,7 +7,7 @@ Github cannot preview Office 365 files.  To view the documents in the links belo
 
 1. Click the link below
 1. Select Download
-- 
+
 - [User Guides](User%20Guides/) – Internal and client-facing training materials and help sheets
 - [SOPs](SOPs/) – Sample SOPs
 
