@@ -13,7 +13,7 @@ Github cannot preview Office 365 files.  To view the documents in the links belo
 
 - [User Guides](User%20Guides/) – Internal and client-facing training materials and help sheets
 - [SOPs](SOPs/) – Sample SOPs - an anonymised sample
-- [Assessments](Assessment/) – The assessment in this folder was designed to assess the word processing ability of candidates.
+- [Assessments](Assessments/) – The assessment in this folder was designed to assess the word processing ability of candidates.
 - [Quick Reference Guides](QRG/) – Various QRGs in company template.
   
 # Key Applications
