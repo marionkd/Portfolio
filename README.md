@@ -12,7 +12,8 @@ Github cannot preview Office 365 files.  To view the documents in the links belo
 **Note:** If the document does not display, try pressing F5 to refresh the screen.
 
 - [User Guides](User%20Guides/) – Internal and client-facing training materials and help sheets
-- [SOPs](SOPs/) – Sample SOPs
+- [SOPs](SOPs/) – Sample SOPs - an anonymised sample
+- [Assessments](Word%20Processing%20Assessment/) – The assessment in this folder was designed to assess the word processing ability of candidates.
 
 # Key Applications
 | Category                | Tools & Technologies                                                                                      | Context / Usage                                                                 |
