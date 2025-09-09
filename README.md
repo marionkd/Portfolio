@@ -15,6 +15,7 @@ Github cannot preview Office 365 files.  To view the documents in the links belo
 - [SOPs](SOPs/) – Sample SOPs - an anonymised sample
 - [Assessments](Assessments/) – The assessment in this folder was designed to assess the word processing ability of candidates.
 - [Quick Reference Guides](QRG/) – Various QRGs in company template.
+- [Style Guide](Style%20Guide%20and%20Templates/) – Sample style guide.
   
 # Key Applications
 | Category                | Tools & Technologies                                                                                      | Context / Usage                                                                 |
