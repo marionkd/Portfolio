@@ -1,5 +1,5 @@
 # About
-An experienced technical author and trainer used to different versions of application software, operating systems, and bespoke systems on both IPAD and PC.  Very confident working in a strategic and proactive manner to achieve innovative solutions and a keen eye for spotting inconsistencies and problems and thinking of ways to resolve them. An excellent team player who can diplomatically and proactively work with all levels within an organisation.
+I'm a technical author and trainer with 20+ years’ experience creating clear, user-focused documentation across NHS, SaaS, and cloud platforms. I specialize in editorial precision, compliance standards, and translating complex systems into accessible content. Skilled in Python, SQL, Power BI, and Microsoft 365, I deliver structured, scalable documentation that supports onboarding, accreditation, and process automation.
 
 # Documentation Examples
 All work that I have created is confidential, but I have uploaded a sample selection for perusal.  I have used the same template to show a consistent theme, but any template style can be used. All work has been redacted where necessary.
