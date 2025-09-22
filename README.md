@@ -1,5 +1,5 @@
 # About
-I'm a technical author and trainer with 20+ years’ experience creating clear, user-focused documentation across NHS, SaaS, and cloud platforms. I specialize in editorial precision, compliance standards, and translating complex systems into accessible content. Skilled in Python, SQL, Power BI, and Microsoft 365, I deliver structured, scalable documentation that supports onboarding, accreditation, and process automation.
+I am a technical author and trainer with 20+ years’ experience creating clear, user-focused documentation across different sectors and different platforms. I specialize in editorial precision, compliance standards, and translating complex systems into accessible content. Able to use Python, SQL, VBA Power BI, Power Automate and Microsoft 365, I deliver structured, scalable documentation that supports onboarding, accreditation, and process automation.
 
 # Documentation Examples
 All work that I have created is confidential, but I have uploaded a sample selection for perusal.  I have used the same template to show a consistent theme, but any template style can be used. All work has been redacted where necessary.
