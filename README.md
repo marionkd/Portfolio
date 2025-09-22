@@ -38,7 +38,7 @@ Github cannot preview Office 365 files, so to view the documents in the links be
 |Local Government|Suffolk County Council, West Suffolk, North Norfolk, East Suffolk, Suffolk Coastal, Colchester Borough Council|
 |Manufacturing         | Tulip, Ford |
 |Maritime |Fraser Offshore, CIS (Acteon Group), Port of Felixstowe, East Coast College |
-|Pharma|Syne qua non, Veeva |
+|Pharma|Syne Qua Non, Veeva |
 |Publishing|Sage Publishing
 |Retail|Marks & Spencer, Whitbread, Matthew Clark, Brown Thomas|
 |SaaS| Microsoft, Civica, Veeva|
