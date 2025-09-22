@@ -3,7 +3,7 @@ I'm a technical author and trainer with 20+ years’ experience creating clear, 
 
 # Documentation Examples
 All work that I have created is confidential, but I have uploaded a sample selection for perusal.  I have used the same template to show a consistent theme, but any template style can be used. All work has been redacted where necessary.
-Github cannot preview Office 365 files.  To view the documents in the links below:
+Github cannot preview Office 365 files, so to view the documents in the links below:
 
 1. Select the required link.
 1. Select the document from the list.
